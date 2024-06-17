@@ -37,11 +37,6 @@ example_prompt=sample+"\nThis is an example table. A few example analytical ques
 final_prompt = example_prompt+"Based on the below table can you create some analytical questions. You can use the sample table and sample questions as an example. Retrun the questions in a list format without any extra headings."+input_table
 result=gemini(final_prompt)
 
-# for char in result:
-#     if char in "-":
-#         result.replace(char,'')
-# print(result.split("\n"))
-
 class User(BaseModel):
     questions: list[str]
 
