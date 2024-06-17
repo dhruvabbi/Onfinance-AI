@@ -34,8 +34,11 @@ input_table ="""
 """
 
 example_prompt=sample+"\nThis is an example table. A few example analytical questions based on the table are: \n1.Compare and contrast Amazon and Procter & Gamble based on their financials.\n2.Which companies will appeal to investors seeking high potential returns despite higher risk?\n\n"
-final_prompt = example_prompt+"Based on the below table can you create some analytical questions. You can use the sample table and sample questions as an example. Retrun the questions in a list format without any extra headings."+input_table
+final_prompt = example_prompt+"Based on the below table can you create some analytical questions. You can use the sample table and sample questions as an example. Return the questions in a list format without any extra headings."+input_table
 result=gemini(final_prompt)
+
+string=input_table+"\n"+result+"\nAbove is a table and some questions based on the table. Can you generate around 50 more analytical questions based on the table. Return the questions in a list format without any extra headings. The list should also include the example questions."
+result_final=gemini(string)
 
 class User(BaseModel):
     questions: list[str]
@@ -51,7 +54,7 @@ resp = client.messages.create(
     messages=[
         {
             "role": "user",
-            "content": result,
+            "content": result_final,
         }
     ],
     response_model=User,
