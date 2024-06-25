@@ -1,6 +1,5 @@
-This graph shows the revenue over the past five years for EIH Limited.
-It shows the revenue through the years 18-19 through till 22-23
-Financial analysis:
-EIH Limited has had its revenue increase from 1627 Crore Rs in 2019-2018 to 1836 Crore Rs in 2022-2023. There has been a 101.6% year over year growth.
-The revenue has fluctuated over the past five years reaching a low of just 474 Crores in 20-21 and reaching a high of 1836 Crore in 22-23.
-A reason for this fluctuation could be the covid-19 pandemic. This caused a massive dip in revenue during the 20-21 and 21-22 years.
+The bar graph depicts the revenue of EIH Limited (in millions of Indian Rupees) over a period of five fiscal years, from FY 2018-19 to FY 2022-23. In FY 2018-19, the company recorded a revenue of ₹16,273 million. The revenue then decreased by 11.3% to ₹14,343 million in FY 2019-20. This decline continued into FY 2020-21, with revenue plummeting to ₹4,736 million, a significant drop of 67.1% from the previous year. This drastic decline might be attributed to the COVID-19 pandemic and its impact on the hospitality industry, which is EIH Limited's core business. However, the company showed strong signs of recovery in FY 2021-22, with revenue increasing by 92% to ₹9,108 million. This upward trajectory continued into FY 2022-23, culminating in a revenue of ₹18,358 million, marking a substantial 101.6% increase from the previous year and even surpassing the pre-pandemic revenue of FY 2018-19. Despite these fluctuations, the 5-year Compound Annual Growth Rate (CAGR) from FY 2018-19 to FY 2022-23 stands at a modest 2.44%, highlighting the impact of the FY 2020-21 slump on the overall growth trend.
+
+Overall Summary:
+
+EIH Limited's revenue trend reflects the volatile journey of the hospitality industry in recent years. After facing a significant setback in FY 2020-21 due to the COVID-19 pandemic, the company has demonstrated remarkable resilience, achieving a full recovery and even exceeding pre-pandemic revenue levels in FY 2022-23. While the 5-year CAGR remains modest due to the pandemic's impact, the recent surge in revenue signifies a positive outlook for EIH Limited's future growth. The company's ability to adapt to changing market dynamics and capitalize on the post-pandemic recovery in the hospitality sector is evident in its strong financial performance.
